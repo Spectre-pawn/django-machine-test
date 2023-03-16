@@ -1,5 +1,5 @@
 # django-machine-test
-
+test apis:<br>
 clients/ <br>
 clients/create/ <br>
 clients/<int:pk>/ <br>
