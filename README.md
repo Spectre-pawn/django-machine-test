@@ -1,15 +1,15 @@
 # django-machine-test
 
 clients/ <br>
-clients/create/
-clients/<int:pk>/
-clients/<int:pk>/update/
-clients/<int:pk>/delete/
-clients/<int:pk>/projects/create/
-projects/
+clients/create/ <br>
+clients/<int:pk>/ <br>
+clients/<int:pk>/update <br>
+clients/<int:pk>/delete/<br>
+clients/<int:pk>/projects/create/<br>
+projects/<br>
 
 
 admin log-in
 
-username=admin
-password=admin
+username=admin <br>
+password=admin <br>
