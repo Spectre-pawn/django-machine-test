@@ -1,6 +1,6 @@
 # django-machine-test
 
-clients/
+clients/ 
 clients/create/
 clients/<int:pk>/
 clients/<int:pk>/update/
